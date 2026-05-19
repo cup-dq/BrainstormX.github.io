@@ -1,7 +1,7 @@
 ---
 layout: archive-taxonomies
 type: categories
-title: categories
+title: Categories
 permalink: /categories/
 ---
 # Research Projects

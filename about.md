@@ -4,4 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Another minimal style of Jekyll theme for writers.
+# 关于 BrainstormX 实验室
+
+BrainstormX 实验室是一个专注于xxx的学生技术团队，我们致力于xxx等实际问题。
+
+## 研究方向
+- 基于GAN的图像修复与增强
+- 老照片/旧视频数字化修复
+- 轻量级AI模型部署与优化
+
+## 核心理念
+我们相信技术的价值在于落地，所有研究项目都以「可开源、可复现、可应用」为目标，欢迎对网络安全AI感兴趣的同学交流合作。
+
+## 联系方式
+- 邮箱：dai18232576157@163.com
+

@@ -4,18 +4,20 @@ title: 关于我们
 permalink: /about/
 ---
 
-# 关于 BrainstormX 实验室
+# About BrainstormX Lab
 
-BrainstormX 实验室是一个专注于xxx的学生技术团队，我们致力于xxx等实际问题。
+BrainstormX Lab is a student-led technical team dedicated to solving practical problems through AI technologies, with a core focus on generative adversarial networks (GANs) and multimedia restoration.
 
-## 研究方向
-- 基于GAN的图像修复与增强
-- 老照片/旧视频数字化修复
-- 轻量级AI模型部署与优化
+## Research Directions
+- **GAN-based Image Restoration and Enhancement**  
+  Developing advanced GAN models to repair degraded images, including noise reduction, artifact removal, and high-fidelity detail recovery.
 
-## 核心理念
-我们相信技术的价值在于落地，所有研究项目都以「可开源、可复现、可应用」为目标，欢迎对网络安全AI感兴趣的同学交流合作。
+- **Old Photo & Video Digital Restoration**  
+  Building end-to-end pipelines for restoring vintage media, addressing common issues like fading, scratches, and low resolution.
 
-## 联系方式
-- 邮箱：dai18232576157@163.com
+- **Lightweight AI Model Deployment & Optimization**  
+  Optimizing AI models for edge devices, enabling efficient deployment on consumer hardware without sacrificing performance.
 
+## Contact
+- Email: dai18232576157@163.com
+- GitHub: [Your GitHub Profile](https://github.com/your-username)

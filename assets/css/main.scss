@@ -8,3 +8,11 @@
   border-bottom: none !important;
   text-decoration: none !important;
 }
+/* 修复Logo显示不全 */
+.sidebar-about .logo img {
+  max-width: 90% !important;
+  height: auto !important;
+  object-fit: contain !important;
+  display: block !important;
+  margin: 0 auto !important;
+}

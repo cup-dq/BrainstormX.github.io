@@ -4,20 +4,52 @@ title: Publications
 permalink: /Publications/
 ---
 
-# About BrainstormX Lab
+# Selected Publications
 
-BrainstormX Lab is a student-led technical team dedicated to solving practical problems through AI technologies, with a core focus on generative adversarial networks (GANs) and multimedia restoration.
+(* indicates corresponding author. Full list: [DBLP](https://dblp.org/), [Google Scholar](https://scholar.google.com/))
 
-## Research Directions
-- **GAN-based Image Restoration and Enhancement**  
-  Developing advanced GAN models to repair degraded images, including noise reduction, artifact removal, and high-fidelity detail recovery.
+---
 
-- **Old Photo & Video Digital Restoration**  
-  Building end-to-end pipelines for restoring vintage media, addressing common issues like fading, scratches, and low resolution.
+## 2025
 
-- **Lightweight AI Model Deployment & Optimization**  
-  Optimizing AI models for edge devices, enabling efficient deployment on consumer hardware without sacrificing performance.
+**Dual-Level Matching with Outlier Filtering for Unsupervised Visible-Infrared Person Re-Identification**  
+Mang Ye*, Zesen Wu, Bo Du  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025*  
+[Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx)
 
-## Contact
-- Email: dai18232576157@163.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+---
+
+**Robust Asymmetric Heterogeneous Federated Learning with Corrupted Client**  
+Xiuwen Fang, Mang Ye*, Bo Du  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025*  
+[Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx)
+
+---
+
+**Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey**  
+Mang Ye*, Wei Shen, Bo Du, Eduard Snezhko, Vassili Kovalev, Pong C. Yuen  
+*ACM Computing Surveys, 2025*  
+[Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx)
+
+---
+
+**Build Yourself Before Collaboration: Vertical Federated Learning with Limited Aligned Samples**  
+Wei Shen, Mang Ye*, Wei Yu, Pong C. Yuen  
+*IEEE Transactions on Mobile Computing (TMC), 2025*  
+[Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx)
+
+---
+
+## 2024
+
+**Noise-Robust Federated Learning With Model Heterogeneous Clients**  
+Your Name*, Co-author Name  
+*IEEE Transactions on Information Forensics and Security (TIFS), 2024*  
+[Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx)
+
+---
+
+**Adversarial Attack Against Deepfake Detection Models**  
+Your Name, Co-author Name*  
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*  
+[Paper](https://arxiv.org/abs/xxxx.xxxxx) | [Code](https://github.com/xxx/xxx)

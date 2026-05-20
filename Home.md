@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /Home/
+title: Publications
+permalink: /Publications/
 ---
 
 # About BrainstormX Lab

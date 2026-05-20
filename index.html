@@ -2,14 +2,13 @@
 layout: home
 ---
 <script>
-// 立即执行，不等页面加载完成
-(function() {
-    // 严格判断：只有访问根路径，且没有跳转记录时才执行
-    if (window.location.pathname === '/' && !sessionStorage.getItem('hasRedirected')) {
-        // 先存标记，再跳转
-        sessionStorage.setItem('hasRedirected', 'true');
-        // 立即跳转，不等待任何内容
-        window.location.replace('/Home/');
-    }
-})();
+if (sessionStorage.getItem('hasRedirected')) {
+    // 已经跳转过，不执行meta跳转
+    document.write('<meta name="robots" content="noindex">');
+} else {
+    // 第一次打开，0秒自动跳转
+    sessionStorage.setItem('hasRedirected', 'true');
+    document.write('<meta http-equiv="refresh" content="0; url=/Home/">');
+}
 </script>
+

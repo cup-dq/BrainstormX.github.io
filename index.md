@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# BrainstormX Cybersecurity Innovation Lab
+# BrainstormX Lab
 **Dedicated to cutting-edge research and engineering practice in cybersecurity**
 
 ---

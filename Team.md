@@ -71,18 +71,28 @@ permalink: /Team/
 <div class="team-grid">
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Qingxiong Tan</div>
-    <div class="member-title">Assistant Professor</div>
+    <div class="member-name">Chen Lifang</div>
+    <div class="member-title">Professor</div>
   </div>
-</div>
-
-# Ph.D. Students
-
-<div class="team-grid">
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Student Name 1</div>
-    <div class="member-title">Ph.D. Candidate (2023)</div>
+    <div class="member-name">Zhou Xu</div>
+    <div class="member-title">Assistant Professor</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Liu Dongmei</div>
+    <div class="member-title">Assistant Professor</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Hou Wei</div>
+    <div class="member-title">Lecturer</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Dai Qi</div>
+    <div class="member-title">Lecturer</div>
   </div>
 </div>
 
@@ -91,8 +101,83 @@ permalink: /Team/
 <div class="team-grid">
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Student Name 1</div>
-    <div class="member-title">M.S. student (2022 Fall)</div>
+    <div class="member-name">Li Chenggang</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Ren Zihan</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Kong Lingjing</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Huang Dingchen</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Wang Qichen</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Fu Shuchuo</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Zhen Wanpeng</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Hu Shengyang</div>
+    <div class="member-title">M.S. Student (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Zhang Xiaonan</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Liu Xinru</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Guan Zhaokang</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Zheng Ran</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Ping Jingjing</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Wang Yicheng</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Wei Changwang</div>
+    <div class="member-title">M.S. Student (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Wang Yufan</div>
+    <div class="member-title">M.S. Student (2025)</div>
   </div>
 </div>
 
@@ -101,8 +186,37 @@ permalink: /Team/
 <div class="team-grid">
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
-    <div class="member-name">Student Name 1</div>
-    <div class="member-title">Undergraduate (2022)</div>
+    <div class="member-name">Liu Yiguan</div>
+    <div class="member-title">Undergraduate (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Zhao Youzhi</div>
+    <div class="member-title">Undergraduate (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Guo Beining</div>
+    <div class="member-title">Undergraduate (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Zeng Dehong</div>
+    <div class="member-title">Undergraduate (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Chen Qiying</div>
+    <div class="member-title">Undergraduate (2024)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Wang Yunuo</div>
+    <div class="member-title">Undergraduate (2025)</div>
+  </div>
+  <div class="team-member">
+    <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
+    <div class="member-name">Li Xuting</div>
+    <div class="member-title">Undergraduate (2025)</div>
   </div>
 </div>
-

@@ -6,7 +6,7 @@ permalink: /Publications/
 ---
 # Selected Publications
 
-(* indicates corresponding author. Full list:[Google Scholar](https://scholar.google.com/citations?user=la2j3P8AAAAJ&hl=zh-CN)
+(* indicates corresponding author. Full list:[Google Scholar](https://scholar.google.com/citations?user=la2j3P8AAAAJ&hl=zh-CN))
 
 ---
 

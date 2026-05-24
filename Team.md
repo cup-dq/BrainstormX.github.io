@@ -5,75 +5,68 @@ permalink: /Team/
 ---
 
 <style>
-/* 团队成员网格布局 - 统一使用4列 */
+/* 核心修复：固定卡片宽度，防止被压缩 */
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 统一设置为4列 */
-  gap: 40px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px; /* 缩小一点间距，给卡片更多空间 */
   margin: 3em 0;
 }
 
-/* 成员卡片样式 */
+/* 强制卡片宽度固定，不被挤压 */
 .team-member {
   text-align: center;
+  max-width: 180px; /* 给每个卡片固定最大宽度 */
+  margin: 0 auto;   /* 卡片在列内居中 */
 }
 
-/* 圆形头像 - 统一尺寸 */
+/* 圆形头像 - 强制完整显示 */
 .team-avatar {
-  width: 120px;  /* 统一宽度 */
-  height: 120px; /* 统一高度 */
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  object-fit: cover; /* 确保图片完整填充圆形 */
+  object-fit: contain; /* 改为contain，完整显示图片，不裁剪 */
   border: 3px solid #eee;
   margin-bottom: 1em;
 }
 
-/* 成员名字（蓝色） */
+/* 成员名字（蓝色）- 强制不换行，超出省略 */
 .member-name {
   color: #2c7fb8;
   font-size: 1.1em;
   font-weight: 500;
   margin-bottom: 0.3em;
-  white-space: nowrap; /* 强制不换行 */
-  overflow: hidden;     /* 超出部分隐藏 */
-  text-overflow: ellipsis; /* 超出显示省略号 */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* 成员职位 */
+/* 成员职位 - 强制不换行，超出省略 */
 .member-title {
   font-size: 0.95em;
   color: #333;
   line-height: 1.4;
-  white-space: nowrap; /* 强制不换行 */
-  overflow: hidden;     /* 超出部分隐藏 */
-  text-overflow: ellipsis; /* 超出显示省略号 */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* 分组标题 */
-.team-section {
-  margin-top: 4em;
-  margin-bottom: 1em;
-  font-size: 1.8em;
-  font-weight: 600;
-}
-
-/* Alumni 部分的名字样式，和 member-name 保持一致 */
+/* Alumni 部分样式 */
 .alumni-name {
   color: #2c7fb8;
   font-weight: 500;
 }
 
-/* Alumni 列表样式 - 减小间距 */
 .alumni-list {
   margin-top: 1em;
-  line-height: 1.8; /* 调整行高，使内容更紧凑 */
+  line-height: 1.8;
 }
 
 .alumni-list p {
-  margin: 0.5em 0; /* 减小段落之间的默认间距 */
+  margin: 0.5em 0;
 }
 
-/* 响应式适配：手机端自动调整列数 */
+/* 响应式适配 */
 @media (max-width: 768px) {
   .team-grid {
     grid-template-columns: repeat(2, 1fr);

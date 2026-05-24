@@ -1,5 +1,7 @@
 // Placeholder to allow customizing styles.
-// 强制修改左上角标题的字体为黑体
+// 左上角标题样式修改：无衬线黑体，和正文风格统一
 .site-title {
-  font-family: "SimHei", "黑体", "Microsoft YaHei", sans-serif !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Microsoft YaHei", sans-serif !important;
+  font-weight: 600; /* 加粗，和第二张图的视觉重量匹配 */
+  letter-spacing: 0.02em; /* 轻微字间距，更规整 */
 }

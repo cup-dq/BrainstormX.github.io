@@ -34,6 +34,9 @@ permalink: /Team/
   font-size: 1.1em;
   font-weight: 500;
   margin-bottom: 0.3em;
+  white-space: nowrap; /* 强制不换行 */
+  overflow: hidden;     /* 超出部分隐藏 */
+  text-overflow: ellipsis; /* 超出显示省略号 */
 }
 
 /* 成员职位 */
@@ -41,6 +44,9 @@ permalink: /Team/
   font-size: 0.95em;
   color: #333;
   line-height: 1.4;
+  white-space: nowrap; /* 强制不换行 */
+  overflow: hidden;     /* 超出部分隐藏 */
+  text-overflow: ellipsis; /* 超出显示省略号 */
 }
 
 /* 分组标题 */
@@ -49,6 +55,12 @@ permalink: /Team/
   margin-bottom: 1em;
   font-size: 1.8em;
   font-weight: 600;
+}
+
+/* Alumni 部分的名字样式，和 member-name 保持一致 */
+.alumni-name {
+  color: #2c7fb8;
+  font-weight: 500;
 }
 
 /* 响应式适配：手机端自动调整列数 */
@@ -92,7 +104,7 @@ permalink: /Team/
   <div class="team-member">
     <img src="/assets/images/team/lab-logo.png" alt="lab-logo" class="team-avatar">
     <div class="member-name">Dai Qi</div>
-    <div class="member-title">Lecturer <br> (IEEE Member)</div>
+    <div class="member-title">Lecturer (IEEE Member)</div>
   </div>
 </div>
 
@@ -222,7 +234,6 @@ permalink: /Team/
 </div>
 
 # Alumni
-Yang Jiapeng (Undergraduate, 2019). Current: Microsoft  
-Tang Yu (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.  
-Wang Longhui (M.S. Student, 2022). Current: Huaibei Vocational and Technical College,Assistant Professor.
-
+<p><span class="alumni-name">Yang Jiapeng</span> (Undergraduate, 2019). Current: Microsoft</p>
+<p><span class="alumni-name">Tang Yu</span> (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.</p>
+<p><span class="alumni-name">Wang Longhui</span> (M.S. Student, 2022). Current: Huaibei Vocational and Technical College, Assistant Professor.</p>

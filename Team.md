@@ -225,7 +225,7 @@ permalink: /Team/
 
 # Alumni
 <div class="alumni-list">
-  <p><span class="alumni-name">Liu Yang (Undergraduate, 2019). Current: DiDi Global Inc</p>
+  <p><span class="alumni-name">Liu Yang</span> (Undergraduate, 2019). Current: DiDi Global Inc</p>
   <p><span class="alumni-name">Yang Jiapeng</span> (Undergraduate, 2019). Current: Microsoft</p>
   <p><span class="alumni-name">Tang Yu</span> (M.S. student, 2020). Current: Beijing Jiaotong University, Ph. D.</p>
   <p><span class="alumni-name">Wang Longhui</span> (M.S. Student, 2022). Current: Huaibei Vocational and Technical College, Assistant Professor.</p>

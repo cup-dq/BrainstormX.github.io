@@ -87,7 +87,7 @@ permalink: /Team/
     <div class="member-title">Associate Professor</div>
   </div>
   <div class="team-member">
-    <img src="/assets/images/team/Faculty Members/侯伟.jpg" alt="Hou Wei" class="team-avatar">
+    <img src="/assets/images/team/Faculty Members/侯伟.png" alt="Hou Wei" class="team-avatar">
     <div class="member-name">Hou Wei</div>
     <div class="member-title">Lecturer</div>
   </div>

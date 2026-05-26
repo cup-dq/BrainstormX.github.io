@@ -5,3 +5,33 @@
   font-weight: 600; /* 加粗，和第二张图的视觉重量匹配 */
   letter-spacing: 0.02em; /* 轻微字间距，更规整 */
 }
+@media screen and (min-width: 900px) {
+  /* 1. 统一侧边栏宽度（所有页面都是18%） */
+  .sidebar {
+    width: 18% !important;
+    flex: 0 0 18% !important;
+    max-width: 18% !important;
+  }
+
+  /* 2. 统一主内容区宽度（所有页面都是80%） */
+  .main-content,
+  .main-content > .container,
+  .post-content,
+  .page-content {
+    width: 80% !important;
+    flex: 0 0 80% !important;
+    max-width: 80% !important;
+    margin-left: 2% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+/* 3. 全局禁用自动断词，消除视觉差异 */
+* {
+  -webkit-hyphens: none !important;
+  -moz-hyphens: none !important;
+  -ms-hyphens: none !important;
+  hyphens: none !important;
+  word-break: keep-all !important;
+}
